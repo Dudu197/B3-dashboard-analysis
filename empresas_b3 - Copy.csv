@@ -1,0 +1,347 @@
+Empresa;Código;Código Yahoo;Setor
+COSAN;CSAN3;CSAN3.SA;Exploração, Refino e Distribuição
+DOMMO;DMMO3;DMMO3.SA;Exploração, Refino e Distribuição
+ENAUTA PART;ENAT3;ENAT3.SA;Exploração, Refino e Distribuição
+PET MANGUINH;RPMG3;RPMG3.SA;Exploração, Refino e Distribuição
+PETROBRAS;PETR3;PETR3.SA;Exploração, Refino e Distribuição
+PETROBRAS BR;BRDT3;BRDT3.SA;Exploração, Refino e Distribuição
+PETRORIO;PRIO3;PRIO3.SA;Exploração, Refino e Distribuição
+ULTRAPAR;UGPA3;UGPA3.SA;Exploração, Refino e Distribuição
+LUPATECH;LUPA3;LUPA3.SA;Equipamentos e Serviços
+OSX BRASIL;OSXB3;OSXB3.SA;Equipamentos e Serviços
+BRADESPAR;BRAP3;BRAP3.SA;Minerais Metálicos
+MMX MINER;MMXM3;MMXM3.SA;Minerais Metálicos
+VALE;VALE3;VALE3.SA;Minerais Metálicos
+FERBASA;FESA4;FESA4.SA;Siderurgia
+GERDAU;GGBR3;GGBR3.SA;Siderurgia
+GERDAU MET;GOAU3;GOAU3.SA;Siderurgia
+SID NACIONAL;CSNA3;CSNA3.SA;Siderurgia
+USIMINAS;USIM3;USIM3.SA;Siderurgia
+MANGELS INDL;MGEL4;MGEL4.SA;Artefatos de Ferro e Aço
+PANATLANTICA;PATI3;PATI3.SA;Artefatos de Ferro e Aço
+PARANAPANEMA;PMAM3;PMAM3.SA;Artefatos de Cobre
+BRASKEM;BRKM3;BRKM3.SA;Petroquímicos
+ELEKEIROZ;ELEK4;ELEK4.SA;Petroquímicos
+GPC PART;GPCP3;GPCP3.SA;Petroquímicos
+FER HERINGER;FHER3;FHER3.SA;Fertilizantes e Defensivos
+NUTRIPLANT;NUTR3;NUTR3.SA;Fertilizantes e Defensivos
+CRISTAL;CRPG3;CRPG3.SA;Químicos Diversos
+UNIPAR;UNIP3;UNIP3.SA;Químicos Diversos
+DURATEX;DTEX3;DTEX3.SA;Madeira
+EUCATEX;EUCA3;EUCA3.SA;Madeira
+IRANI;RANI3;RANI3.SA;Papel e Celulose
+KLABIN S/A;KLBN3;KLBN3.SA;Papel e Celulose
+MELHOR SP;MSPA3;MSPA3.SA;Papel e Celulose
+SUZANO S.A.;SUZB3;SUZB3.SA;Papel e Celulose
+METAL IGUACU;MTIG4;MTIG4.SA;Embalagens
+SANSUY;SNSY3;SNSY3.SA;Materiais Diversos
+ETERNIT;ETER3;ETER3.SA;Produtos para Construção
+HAGA S/A;HAGA3;HAGA3.SA;Produtos para Construção
+PORTOBELLO;PTBL3;PTBL3.SA;Produtos para Construção
+AZEVEDO;AZEV3;AZEV3.SA;Construção Pesada
+SONDOTECNICA;SOND6;SOND6.SA;Engenharia Consultiva
+TECNOSOLO;TCNO3;TCNO3.SA;Engenharia Consultiva
+MILLS;MILS3;MILS3.SA;Serviços Diversos
+EMBRAER;EMBR3;EMBR3.SA;Material Aeronáutico e de Defesa
+FRAS-LE;FRAS3;FRAS3.SA;Material Rodoviário
+MARCOPOLO;POMO3;POMO3.SA;Material Rodoviário
+RANDON PART;RAPT3;RAPT3.SA;Material Rodoviário
+RECRUSUL;RCSL3;RCSL3.SA;Material Rodoviário
+RIOSULENSE;RSUL4;RSUL4.SA;Material Rodoviário
+TUPY;TUPY3;TUPY3.SA;Material Rodoviário
+WETZEL S/A;MWET3;MWET3.SA;Material Rodoviário
+SCHULZ;SHUL4;SHUL4.SA;Motores, Compressores e Outros
+WEG;WEGE3;WEGE3.SA;Motores, Compressores e Outros
+ACO ALTONA;EALT3;EALT3.SA;Máq. e Equip. Industriais
+BARDELLA;BDLL4;BDLL4.SA;Máq. e Equip. Industriais
+INDS ROMI;ROMI3;ROMI3.SA;Máq. e Equip. Industriais
+INEPAR;INEP3;INEP3.SA;Máq. e Equip. Industriais
+KEPLER WEBER;KEPL3;KEPL3.SA;Máq. e Equip. Industriais
+METALFRIO;FRIO3;FRIO3.SA;Máq. e Equip. Industriais
+NORDON MET;NORD3;NORD3.SA;Máq. e Equip. Industriais
+METISA;MTSA4;MTSA4.SA;Máq. e Equip. Construção e Agrícolas
+TAURUS ARMAS;TASA3;TASA3.SA;Armas e Munições
+AZUL;AZUL4;AZUL4.SA;Transporte Aéreo
+GOL;GOLL4;GOLL4.SA;Transporte Aéreo
+ALL PAULISTA;GASC;GASC;Transporte Ferroviário
+COSAN LOG;RLOG3;RLOG3.SA;Transporte Ferroviário
+FER C ATLANT;VSPT;VSPT;Transporte Ferroviário
+MRS LOGIST;MRSA;MRSA;Transporte Ferroviário
+RUMO S.A.;RAIL3;RAIL3.SA;Transporte Ferroviário
+LOG-IN;LOGN3;LOGN3.SA;Transporte Hidroviário
+TREVISA;LUXM4;LUXM4.SA;Transporte Hidroviário
+JSL;JSLG3;JSLG3.SA;Transporte Rodoviário
+TEGMA;TGMA3;TGMA3.SA;Transporte Rodoviário
+AUTOBAN;ANHB;ANHB;Exploração de Rodovias
+CCR SA;CCRO3;CCRO3.SA;Exploração de Rodovias
+CONC RAPOSO;RPTA;RPTA;Exploração de Rodovias
+ECOPISTAS;ASCP;ASCP;Exploração de Rodovias
+ECORODOVIAS;ECOR3;ECOR3.SA;Exploração de Rodovias
+TRIANGULOSOL;TRIA;TRIA;Exploração de Rodovias
+TRIUNFO PART;TPIS3;TPIS3.SA;Exploração de Rodovias
+VIAOESTE;VOES;VOES;Exploração de Rodovias
+GRUAIRPORT;AGRU;AGRU;Serviços de Apoio e Armazenagem
+PORTO VM;PSVM11;PSVM11.SA;Serviços de Apoio e Armazenagem
+SALUS INFRA;SAIP;SAIP;Serviços de Apoio e Armazenagem
+SANTOS BRP;STBP3;STBP3.SA;Serviços de Apoio e Armazenagem
+WILSON SONS;WSON;WSON;Serviços de Apoio e Armazenagem
+ATMASA;ATMP3;ATMP3.SA;Serviços Diversos
+CSU CARDSYST;CARD3;CARD3.SA;Serviços Diversos
+DTCOM-DIRECT;DTCY3;DTCY3.SA;Serviços Diversos
+ESTAPAR;ALPK3;ALPK3.SA;Serviços Diversos
+PRINER;PRNR3;PRNR3.SA;Serviços Diversos
+VALID;VLID3;VLID3.SA;Serviços Diversos
+BATTISTELLA;BTTL3;BTTL3.SA;Material de Transporte
+MINASMAQUINA;MMAQ;MMAQ;Material de Transporte
+WLM IND COM;WLMM3;WLMM3.SA;Material de Transporte
+ALIPERTI;APTI;APTI;Agricultura
+BRASILAGRO;AGRO3;AGRO3.SA;Agricultura
+POMIFRUTAS;FRTA3;FRTA3.SA;Agricultura
+SLC AGRICOLA;SLCE3;SLCE3.SA;Agricultura
+TERRA SANTA;TESA3;TESA3.SA;Agricultura
+BIOSEV;BSEV3;BSEV3.SA;Açucar e Alcool
+RAIZEN ENERG;RESA;RESA;Açucar e Alcool
+SAO MARTINHO;SMTO3;SMTO3.SA;Açucar e Alcool
+BRF SA;BRFS3;BRFS3.SA;Carnes e Derivados
+EXCELSIOR;BAUH4;BAUH4.SA;Carnes e Derivados
+JBS;JBSS3;JBSS3.SA;Carnes e Derivados
+MARFRIG;MRFG3;MRFG3.SA;Carnes e Derivados
+MINERVA;BEEF3;BEEF3.SA;Carnes e Derivados
+MINUPAR;MNPR3;MNPR3.SA;Carnes e Derivados
+CAMIL;CAML3;CAML3.SA;Alimentos Diversos
+JOSAPAR;JOPA;JOPA;Alimentos Diversos
+M.DIASBRANCO;MDIA3;MDIA3.SA;Alimentos Diversos
+AMBEV S/A;ABEV3;ABEV3.SA;Cervejas e Refrigerantes
+GRUPO NATURA;NTCO3;NTCO3.SA;Produtos de Uso Pessoal
+BOMBRIL;BOBR4;BOBR4.SA;Produtos de Limpeza
+CARREFOUR BR;CRFB3;CRFB3.SA;Alimentos
+P.ACUCAR-CBD;PCAR3;PCAR3.SA;Alimentos
+CONST A LIND;CALI;CALI;Incorporações
+CYRELA REALT;CYRE3;CYRE3.SA;Incorporações
+DIRECIONAL;DIRR3;DIRR3.SA;Incorporações
+EVEN;EVEN3;EVEN3.SA;Incorporações
+EZTEC;EZTC3;EZTC3.SA;Incorporações
+GAFISA;GFSA3;GFSA3.SA;Incorporações
+HELBOR;HBOR3;HBOR3.SA;Incorporações
+JHSF PART;JHSF3;JHSF3.SA;Incorporações
+MITRE REALTY;MTRE3;MTRE3.SA;Incorporações
+MOURA DUBEUX;MDNE3;MDNE3.SA;Incorporações
+MRV;MRVE3;MRVE3.SA;Incorporações
+PDG REALT;PDGR3;PDGR3.SA;Incorporações
+RNI;RDNI3;RDNI3.SA;Incorporações
+ROSSI RESID;RSID3;RSID3.SA;Incorporações
+TECNISA;TCSA3;TCSA3.SA;Incorporações
+TENDA;TEND3;TEND3.SA;Incorporações
+TRISUL;TRIS3;TRIS3.SA;Incorporações
+VIVER;VIVR3;VIVR3.SA;Incorporações
+CEDRO;CEDO3;CEDO3.SA;Fios e Tecidos
+COTEMINAS;CTNM3;CTNM3.SA;Fios e Tecidos
+DOHLER;DOHL3;DOHL3.SA;Fios e Tecidos
+IND CATAGUAS;CATA;CATA;Fios e Tecidos
+KARSTEN;CTKA4;CTKA4.SA;Fios e Tecidos
+PETTENATI;PTNT4;PTNT4.SA;Fios e Tecidos
+SANTANENSE;CTSA3;CTSA3.SA;Fios e Tecidos
+SPRINGS;SGPS3;SGPS3.SA;Fios e Tecidos
+TEKA;TEKA4;TEKA4.SA;Fios e Tecidos
+TEX RENAUX;TXRX3;TXRX3.SA;Fios e Tecidos
+CIA HERING;HGTX3;HGTX3.SA;Vestuário
+ALPARGATAS;ALPA3;ALPA3.SA;Calçados
+CAMBUCI;CAMB3;CAMB3.SA;Calçados
+GRENDENE;GRND3;GRND3.SA;Calçados
+VULCABRAS;VULC3;VULC3.SA;Calçados
+MUNDIAL;MNDL3;MNDL3.SA;Acessórios
+TECHNOS;TECN3;TECN3.SA;Acessórios
+VIVARA S.A.;VIVA3;VIVA3.SA;Acessórios
+WHIRLPOOL;WHRL3;WHRL3.SA;Eletrodomésticos
+UNICASA;UCAS3;UCAS.SA;Móveis
+HERCULES;HETA4;HETA4.SA;Utensílios Domésticos
+IOCHP-MAXION;MYPK3;MYPK3.SA;Automóveis e Motocicletas
+METAL LEVE;LEVE3;LEVE3.SA;Automóveis e Motocicletas
+PLASCAR PART;PLAS3;PLAS3.SA;Automóveis e Motocicletas
+HOTEIS OTHON;HOOT4;HOOT4.SA;Hotelaria
+BK BRASIL;BKBR3;BKBR3.SA;Restaurante e Similares
+IMC S/A;MEAL3;MEAL3.SA;Restaurante e Similares
+BIC MONARK;BMKS3;BMKS3.SA;Bicicletas
+ESTRELA;ESTR4;ESTR4.SA;Brinquedos e Jogos
+SPTURIS;AHEB3;AHEB3.SA;Produção de Eventos e Shows
+TIME FOR FUN;SHOW3;SHOW3.SA;Produção de Eventos e Shows
+CVC BRASIL;CVCB3;CVCB3.SA;Viagens e Turismo
+SMART FIT;SMFT;SMFT;Atividades Esportivas
+ANIMA;ANIM3;ANIM3.SA;Serviços Educacionais
+BAHEMA;BAHI3;BAHI3.SA;Serviços Educacionais
+COGNA ON;COGN3;COGN3.SA;Serviços Educacionais
+SER EDUCA;SEER3;SEER3.SA;Serviços Educacionais
+YDUQS PART;YDUQ3;YDUQ3.SA;Serviços Educacionais
+LOCALIZA;RENT3;RENT3.SA;Aluguel de carros
+LOCAMERICA;LCAM3;LCAM3.SA;Aluguel de carros
+MAESTROLOC;MSRO;MSRO;Aluguel de carros
+MOVIDA;MOVI3;MOVI3.SA;Aluguel de carros
+SMILES;SMLS3;SMLS3.SA;Programas de Fidelização
+AREZZO CO;ARZZ3;ARZZ3.SA;Tecidos, Vestuário e Calçados
+CEA MODAS;CEAB3;CEAB.SA;Tecidos, Vestuário e Calçados
+GRAZZIOTIN;CGRA3;CGRA3.SA;Tecidos, Vestuário e Calçados
+GUARARAPES;GUAR3;GUAR3.SA;Tecidos, Vestuário e Calçados
+LE LIS BLANC;LLIS3;LLIS3.SA;Tecidos, Vestuário e Calçados
+LOJAS MARISA;AMAR3;AMAR3.SA;Tecidos, Vestuário e Calçados
+LOJAS RENNER;LREN3;LREN3.SA;Tecidos, Vestuário e Calçados
+MAGAZ LUIZA;MGLU3;MGLU3.SA;Eletrodomésticos
+VIAVAREJO;VVAR3;VVAR3.SA;Eletrodomésticos
+B2W DIGITAL;BTOW3;BTOW3.SA;Produtos Diversos
+CENTAURO;CNTO3;CNTO3.SA;Produtos Diversos
+LOJAS AMERIC;LAME3;LAME3.SA;Produtos Diversos
+SARAIVA;SLED4;SLED4.SA;Produtos Diversos
+BIOMM;BIOM3;BIOM3.SA;Medicamentos e Outros Produtos
+OUROFINO S/A;OFSA3;OFSA3.SA;Medicamentos e Outros Produtos
+ADVANCED-DH;ADHM3;ADHM3.SA;Serviços Médico - Hospitalares, Análises e Diagnósticos
+ALLIAR;AALR3;AALR3.SA;Serviços Médico - Hospitalares, Análises e Diagnósticos
+DASA;DASA3;DASA3.SA;Serviços Médico - Hospitalares, Análises e Diagnósticos
+FLEURY;FLRY3;FLRY3.SA;Serviços Médico - Hospitalares, Análises e Diagnósticos
+HAPVIDA;HAPV3;HAPV3.SA;Serviços Médico - Hospitalares, Análises e Diagnósticos
+IHPARDINI;PARD3;PARD3.SA;Serviços Médico - Hospitalares, Análises e Diagnósticos
+INTERMEDICA;GNDI3;GNDI3.SA;Serviços Médico - Hospitalares, Análises e Diagnósticos
+ODONTOPREV;ODPV3;ODPV3.SA;Serviços Médico - Hospitalares, Análises e Diagnósticos
+QUALICORP;QUAL3;QUAL3.SA;Serviços Médico - Hospitalares, Análises e Diagnósticos
+BAUMER;BALM3;BALM3.SA;Equipamentos
+DIMED;PNVL3;PNVL3.SA;Medicamentos e Outros Produtos
+HYPERA;HYPE3;HYPE3.SA;Medicamentos e Outros Produtos
+PROFARMA;PFRM3;PFRM3.SA;Medicamentos e Outros Produtos
+RAIADROGASIL;RADL3;RADL3.SA;Medicamentos e Outros Produtos
+POSITIVO TEC;POSI3;POSI3.SA;Computadores e Equipamentos
+BRQ BRQB;MA;MA;Programas e Serviços
+LINX;LINX3;LINX3.SA;Programas e Serviços
+LOCAWEB;LWSA3;LWSA3.SA;Programas e Serviços
+QUALITY SOFT;QUSW;QUSW;Programas e Serviços
+SINQIA;SQIA3;SQIA3.SA;Programas e Serviços
+TOTVS;TOTS3;TOTS3.SA;Programas e Serviços
+ALGAR TELEC;ALGT;ALGT;Telecomunicações
+OI;OIBR3;OIBR3.SA;Telecomunicações
+TELEBRAS;TELB3;TELB3.SA;Telecomunicações
+TELEF BRASIL;VIVT3;VIVT3.SA;Telecomunicações
+TIM PART S/A;TIMP3;TIMP3.SA;Telecomunicações
+CINESYSTEM;CNSY;CNSY;Produção e Difusão de Filmes e Programas
+AES SUL;AESL;AESL;Energia Elétrica
+AES TIETE E;TIET3;TIET3.SA;Energia Elétrica
+AFLUENTE T;AFLT3;AFLT3.SA;Energia Elétrica
+ALUPAR;ALUP3;ALUP3.SA;Energia Elétrica
+AMPLA ENERG;CBEE3;CBEE3.SA;Energia Elétrica
+CEB;CEBR3;CEBR3.SA;Energia Elétrica
+CEEE-D;CEED3;CEED3.SA;Energia Elétrica
+CEEE-GT;EEEL4;EEEL4.SA;Energia Elétrica
+CELESC;CLSC4;CLSC4.SA;Energia Elétrica
+CELGPAR;GPAR;GPAR;Energia Elétrica
+CEMIG;CMIG3;CMIG3.SA;Energia Elétrica
+CESP;CESP3;CESP3.SA;Energia Elétrica
+COPEL;CPLE3;CPLE3.SA;Energia Elétrica
+COSERN;CSRN;CSRN;Energia Elétrica
+CPFL ENERGIA;CPFE3;CPFE3.SA;Energia Elétrica
+ELEKTRO;EKTR4;EKTR4.SA;Energia Elétrica
+ELETROBRAS;ELET3;ELET3.SA;Energia Elétrica
+ELETROPAR;LIPR3;LIPR3.SA;Energia Elétrica
+EMAE;EMAE4;EMAE4.SA;Energia Elétrica
+ENERGIAS BR;ENBR3;ENBR3.SA;Energia Elétrica
+ENERGISA;ENGI3;ENGI3.SA;Energia Elétrica
+ENERGISA MT;ENMT3;ENMT3.SA;Energia Elétrica
+ENEVA;ENEV3;ENEV3.SA;Energia Elétrica
+ENGIE BRASIL;EGIE3;EGIE3.SA;Energia Elétrica
+EQTLMARANHAO;EQMA;EQMA;EQTL PARA EQPA
+EQUATORIAL;EQTL3;EQTL3.SA;EQTL PARA EQPA
+ESCELSA;ESCE;ESCE;EQTL PARA EQPA
+GER PARANAP;GEPA;GEPA;EQTL PARA EQPA
+LIGHT S/A;LIGT3;LIGT3.SA;EQTL PARA EQPA
+NEOENERGIA;NEOE3;NEOE3.SA;EQTL PARA EQPA
+OMEGA GER;OMGE3;OMGE3.SA;EQTL PARA EQPA
+PAUL F LUZ;PALF;PALF;EQTL PARA EQPA
+REDE ENERGIA;REDE3;REDE3.SA;EQTL PARA EQPA
+RENOVA;RNEW3;RNEW3.SA;EQTL PARA EQPA
+STATKRAFT;STKF;STKF;EQTL PARA EQPA
+STO ANTONIO;STEN;STEN;EQTL PARA EQPA
+TAESA;TAEE3;TAEE3.SA;EQTL PARA EQPA
+TRAN PAULIST;TRPL3;TRPL3.SA;EQTL PARA EQPA
+CASAN;CASN;CASN;Água e Saneamento
+COPASA;CSMG3;CSMG3.SA;Água e Saneamento
+IGUA SA;IGSN;IGSN;Água e Saneamento
+SABESP;SBSP3;SBSP3.SA;Água e Saneamento
+SANEPAR;SAPR3;SAPR3.SA;Água e Saneamento
+SANESALTO;SNST;SNST;Água e Saneamento
+COMGAS;CGAS3;CGAS3.SA;Gás
+ABC BRASIL;ABCB4;ABCB4.SA;Bancos
+ALFA HOLDING;RPAD3;RPAD3.SA;Bancos
+ALFA INVEST;BRIV3;BRIV3.SA;Bancos
+AMAZONIA;BAZA3;BAZA3.SA;Bancos
+BANCO BMG;BMGB4;BMGB4.SA;Bancos
+BANCO INTER;BIDI3;BIDI3.SA;Bancos
+BANCO PAN;BPAN4;BPAN4.SA;Bancos
+BANESE;BGIP3;BGIP3.SA;Bancos
+BANESTES;BEES3;BEES3.SA;Bancos
+BANPARA;BPAR;BPAR;Bancos
+BANRISUL;BRSR3;BRSR3.SA;Bancos
+BRADESCO;BBDC3;BBDC3.SA;Bancos
+BRASIL;BBAS3;BBAS3.SA;Bancos
+BRB BANCO;BSLI;BSLI;Bancos
+BTGP BANCO;BPAC3;BPAC3.SA;Bancos
+INDUSVAL;IDVL3;IDVL3.SA;Bancos
+ITAUSA;ITSA3;ITSA3.SA;Bancos
+ITAUUNIBANCO;ITUB3;ITUB3.SA;Bancos
+MERC BRASIL;BMEB3;BMEB3.SA;Bancos
+MERC INVEST;BMIN3;BMIN3.SA;Bancos
+NORD BRASIL;BNBR3;BNBR3.SA;Bancos
+PINE;PINE4;PINE4.SA;Bancos
+SANTANDER BR;SANB3;SANB3.SA;Bancos
+ALFA FINANC;CRIV3;CRIV3.SA;Soc. Crédito e Financiamento
+MERC FINANC;MERC3;MERC3.SA;Soc. Crédito e Financiamento
+BRADESCO LSG;BDLS;BDLS;Soc. Arrendamento Mercantil
+BV LEASING;BVLS;BVLS;Soc. Arrendamento Mercantil
+BRAZIL REALT;BZRS;BZRS;Securitizadoras de Recebíveis
+BRAZILIAN SC;BSCS;BSCS;Securitizadoras de Recebíveis
+BRC SECURIT;BRCS;BRCS;Securitizadoras de Recebíveis
+CIBRASEC;CBSC;CBSC;Securitizadoras de Recebíveis
+ECO SEC AGRO;ECOA;ECOA;Securitizadoras de Recebíveis
+GAIA AGRO;GAFL;GAFL;Securitizadoras de Recebíveis
+GAIA SECURIT;GAIA;GAIA;Securitizadoras de Recebíveis
+OCTANTE SEC;OCTS;OCTS;Securitizadoras de Recebíveis
+PDG SECURIT;PDGS;PDGS;Securitizadoras de Recebíveis
+POLO CAP SEC;PLSC;PLSC;Securitizadoras de Recebíveis
+RBCAPITALRES;RBRA;RBRA;Securitizadoras de Recebíveis
+TRUESEC;APCS;APCS;Securitizadoras de Recebíveis
+PPLA;PPLA11;PPLA11.SA;Gestão de Recursos e Investimentos
+B3;B3SA3;B3SA3.SA;Serviços Financeiros Diversos
+CIELO;CIEL3;CIEL3.SA;Serviços Financeiros Diversos
+ALFA CONSORC;BRGE11;BRGE11.SA;Seguradoras
+BBSEGURIDADE;BBSE3;BBSE3.SA;Seguradoras
+IRBBRASIL RE;IRBR3;IRBR3.SA;Seguradoras
+PORTO SEGURO;PSSA3;PSSA3.SA;Seguradoras
+SEG AL BAHIA;CSAB;CSAB;Seguradoras
+SUL AMERICA;SULA3;SULA3.SA;Seguradoras
+ALPER S.A.;APER3;APER3.SA;Corretoras de Seguros
+WIZ S.A.;WIZS3;WIZS3.SA;Corretoras de Seguros
+ALIANSCSONAE;ALSO3;ALSO3.SA;Exploração de Imóveis
+BR MALLS PAR;BRML3;BRML3.SA;Exploração de Imóveis
+BR PROPERT;BRPR3;BRPR3.SA;Exploração de Imóveis
+CYRE COM-CCP;CCPR3;CCPR3.SA;Exploração de Imóveis
+GENERALSHOPP;GSHP3;GSHP3.SA;Exploração de Imóveis
+HABITASUL;HBTS;HBTS;Exploração de Imóveis
+IGB S/A;IGBR3;IGBR3.SA;Exploração de Imóveis
+IGUATEMI;IGTA3;IGTA3.SA;Exploração de Imóveis
+JEREISSATI;JPSA3;JPSA3.SA;Exploração de Imóveis
+LOG COM PROP;LOGG3;LOGG3.SA;Exploração de Imóveis
+MULTIPLAN;MULT3;MULT3.SA;Exploração de Imóveis
+SAO CARLOS;SCAR3;SCAR3.SA;Exploração de Imóveis
+BR BROKERS;BBRK3;BBRK3.SA;Intermediação Imobiliária
+LOPES BRASIL;LPSB3;LPSB3.SA;Intermediação Imobiliária
+MONT ARANHA;MOAR3;MOAR3.SA;Holdings Diversificadas
+PAR AL BAHIA;PEAB;PEAB;Holdings Diversificadas
+SPRINGER;SPRI3;SPRI3.SA;Holdings Diversificadas
+CEPAC - CTBA;CTBA;CTBA;Outros Títulos
+CEPAC - PMSP;PMSP;PMSP;Outros Títulos
+ALEF S/A;ALEF;ALEF;Outros
+ATOMPAR;ATOM3;ATOM3.SA;Outros
+CABINDA PART;CABI;CABI;Outros
+CACONDE PART;CACO;CACO;Outros
+CEMEPE;MAPT;MAPT;Outros
+CIMS;CMSA;CMSA;Outros
+J B DUARTE;JBDU3;JBDU3.SA;Outros
+LONGDIS;SPRT;SPRT;Outros
+POLPAR;PPAR;PPAR;Outros
+SELECTPART;SLCT;SLCT;Outros
+SUDESTE S/A;OPSE;OPSE;Outros
+SUL 116 PART;OPTS;OPTS;Outros
