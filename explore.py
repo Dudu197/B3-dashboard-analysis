@@ -56,6 +56,12 @@ six_month = first_business_day((date.today() + relativedelta(months=-6)))
 # In[7]:
 
 
+month = '2020-11-03'
+
+
+# In[8]:
+
+
 def get_kpi_value(ticket, kpi):
     file = './crawlers/{}.json'.format(ticket)
     if os.path.exists(file):
@@ -67,7 +73,7 @@ def get_kpi_value(ticket, kpi):
     return 0
 
 
-# In[8]:
+# In[9]:
 
 
 def sector_kpi(tickets, kpi):
@@ -81,7 +87,7 @@ def sector_kpi(tickets, kpi):
     return 0
 
 
-# In[17]:
+# In[10]:
 
 
 def generate_json(empresas, indicador, arquivo):
@@ -99,13 +105,17 @@ def generate_json(empresas, indicador, arquivo):
     data = pdr.get_data_yahoo(list(empresas['Código Yahoo']), start=start_date, end=end_date)
     
     df_categories = pd.DataFrame()
+    df_open = pd.DataFrame()
     df_mean = pd.DataFrame()
     df_indicators = pd.DataFrame()
     
     for setor in setores.keys():
         df_categories[setor] = data['Close'][setores[setor]].mean(axis=1)
+        df_open[setor] = data['Open'][setores[setor]].mean(axis=1)
     df_categories[indicador] = val_indicador['Close']
+    df_open[indicador] = val_indicador['Open']
     df_categories.fillna(method='ffill', inplace=True)
+    df_open.fillna(method='ffill', inplace=True)
     
     setores[indicador] = [indicador]
     
@@ -116,7 +126,7 @@ def generate_json(empresas, indicador, arquivo):
         valor_mes = round(df_categories.loc[month][setor], 2)
         valor_semana = round(df_categories.loc[monday][setor], 2)
         valor_ontem = round(df_categories.iloc[-2][setor], 2)
-        valor_hoje = round(df_categories.iloc[-1][setor], 2)
+        valor_hoje = round(df_open.iloc[-1][setor], 2)
 
         percent_ano = round((((valor_hoje - valor_ano) / valor_ano) * 100), 2)
         percent_seis_meses = round((((valor_hoje - valor_seis_meses) / valor_seis_meses) * 100), 2)
@@ -147,7 +157,7 @@ def generate_json(empresas, indicador, arquivo):
     df_mean.T.to_json('dashboard/src/' + arquivo)
 
 
-# In[10]:
+# In[11]:
 
 
 # https://blog.toroinvestimentos.com.br/empresas-listadas-b3-bovespa
@@ -158,7 +168,7 @@ file = 'ibov.json'
 generate_json(empresas_ibov, indicator, file)
 
 
-# In[11]:
+# In[12]:
 
 
 empresas_ibov = pd.read_csv('empresas_b3.csv', sep=';', encoding = "ISO-8859-1")
@@ -168,7 +178,7 @@ file = 'b3.json'
 generate_json(empresas_ibov, indicator, file)
 
 
-# In[18]:
+# In[13]:
 
 
 empresas_ibov = pd.read_json('ifix.json')
